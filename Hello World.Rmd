@@ -1,14 +1,8 @@
 ---
 title: "Hello World"
-author: "Renato Leal"
-date: "2022-11-12"
 output: pdf_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
-## R Markdown
+## What type of file is this?
 
 This is an R Markdown file
