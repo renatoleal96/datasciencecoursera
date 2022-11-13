@@ -1,8 +1,2 @@
----
-title: "Hello World"
-output: pdf_document
----
 
-## What type of file is this?
-
-This is an R Markdown file
+## This is an R Markdown file
